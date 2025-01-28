@@ -91,8 +91,6 @@ elif fields_choice == "Entertainment":
 
 
 # Brief insight into AI.
-# Use expander to let users click to reveal more about the history of evolution of AI/ML. 
-# Or use button and plot to let users click a button to generate a word cloud for key ML terms.
 st.markdown("**Why is AI so important?**")
 st.markdown("AI and ML are at the forefront of technological advancement, driving innovation in science and industry. From accelerating drug discovery in pharmaceuticals to improving manufacturing efficiency and developing groundbreaking technologies in renewable energy, their impact is profound and far-reaching. By gaining a foundational understanding of ML, you’ll join the growing community of individuals shaping the future of these transformative fields.")
 
